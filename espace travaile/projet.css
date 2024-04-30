@@ -1,0 +1,18 @@
+head{
+
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(1.png);
+    background-size: cover;
+}
+
+
+
+
+header{
+    
+    
+    background-color: burlywood;
+    
+}
+body{
+    background-color: black;
+}
